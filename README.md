@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=300&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=200&lines=thavguard.+Web+Developer;Backend+developer.;dotnet+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=300&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=thavguard.+Web+Developer;Backend+developer.;dotnet+developer.)](https://git.io/typing-svg)
